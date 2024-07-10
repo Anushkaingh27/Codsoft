@@ -22,8 +22,8 @@ A portfolio website is an online collection of a person's work samples, projects
 
 
 ### Language Used ###
-  HTML
-  CSS
+  HTML and CSS
+  
 
 
 
